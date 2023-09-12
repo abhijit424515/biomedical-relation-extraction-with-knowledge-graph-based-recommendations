@@ -7,8 +7,7 @@ Here Graph means a collection of nodes and edges. Nodes are entities and edges a
 
 It aquires and integrates information into an ontology and applies a reasoner to derive new knowledge. 
 
-Ontology: a set of concepts and categories in a subject area or domain that shows their properties and the relations between them
-
+**Ontology**: a set of concepts and categories in a subject area or domain that shows their properties and the relations between them
 
 # Description of Entities of Knowledge Graphs
 
@@ -45,6 +44,8 @@ We can use RDFlib for mapping of RDF data into Knowledge graphs.
 OR,
 
 We can directly visualize the Knowledge Graph from the Graph Database.
+
+![Image](https://i.imgur.com/WyQKeHb.png)
 
 # Applications of Knowledge Graph:
 ## Question Answering System
